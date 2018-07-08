@@ -1,0 +1,885 @@
+
+[2018-07-07 14:42:14.861630] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[2018-07-07 14:46:26.306708] local variable 'mid' referenced before assignment
+[2018-07-07 14:53:53.738350] name 'welcomemsg' is not defined
+[2018-07-07 14:54:21.312414] local variable 'mid' referenced before assignment
+[2018-07-07 14:54:46.699592] name 'welcomemsg' is not defined
+[2018-07-07 14:58:11.766836] name 'welcomemsg' is not defined
+[2018-07-07 14:58:29.547369] local variable 'mid' referenced before assignment
+[2018-07-07 14:58:29.565858] argument of type 'bool' is not iterable
+[2018-07-07 14:59:40.967393] name 'welcomemsg' is not defined
+[2018-07-07 15:01:48.567510] name 'welcomemsg' is not defined
+[2018-07-07 15:06:15.705101] 'NoneType' object has no attribute 'lower'
+[2018-07-07 15:09:31.766738] local variable 'mid' referenced before assignment
+[2018-07-07 15:09:31.791098] argument of type 'bool' is not iterable
+[2018-07-07 15:10:40.227442] name 'welcomemsg' is not defined
+[2018-07-07 15:10:42.177899] local variable 'mid' referenced before assignment
+[2018-07-07 15:12:11.689748] TalkException(parameterMap=None, reason='can not send using plain mode', code=82)
+[2018-07-07 15:12:11.711916] TalkException(parameterMap=None, reason='can not send using plain mode', code=82)
+[2018-07-07 15:12:27.804880] name 'welcomemsg' is not defined
+[2018-07-07 15:14:38.802631] TalkException(parameterMap=None, reason='can not send using plain mode', code=82)
+[2018-07-07 15:14:38.824459] TalkException(parameterMap=None, reason='can not send using plain mode', code=82)
+[2018-07-07 15:20:49.760016] name 'welcomemsg' is not defined
+[2018-07-07 15:22:27.547318] name 'welcomemsg' is not defined
+[2018-07-07 15:27:26.791500] name 'welcomemsg' is not defined
+[2018-07-07 15:33:08.878649] name 'welcomemsg' is not defined
+[2018-07-07 15:40:24.471572] getUserTicket failed: unknown result
+[2018-07-07 15:41:25.571097] local variable 'mid' referenced before assignment
+[2018-07-07 15:46:04.514693] name 'welcomemsg' is not defined
+[2018-07-07 15:46:52.278193] TalkException(parameterMap=None, code=0, reason='invalid mid')
+[2018-07-07 15:47:32.391817] TalkException(parameterMap=None, code=0, reason='invalid mid')
+[2018-07-07 15:47:40.393565] name 'welcomemsg' is not defined
+[2018-07-07 15:49:27.032834] 'NoneType' object has no attribute 'lower'
+[2018-07-07 15:49:33.289438] 'NoneType' object has no attribute 'lower'
+[2018-07-07 15:53:37.228520] local variable 'mid' referenced before assignment
+[2018-07-07 15:53:47.194996] name 'welcomemsg' is not defined
+[2018-07-07 15:53:59.561211] name 'welcomemsg' is not defined
+[2018-07-07 16:09:14.833998] name 'welcomemsg' is not defined
+[2018-07-07 16:09:46.273279] name 'welcomemsg' is not defined
+[2018-07-07 16:11:04.019580] name 'welcomemsg' is not defined
+[2018-07-07 16:14:50.177422] local variable 'mid' referenced before assignment
+[2018-07-07 16:14:56.321646] name 'welcomemsg' is not defined
+[2018-07-07 16:16:32.501271] TalkException(parameterMap=None, reason='can not send using plain mode', code=82)
+[2018-07-07 16:16:32.524738] TalkException(parameterMap=None, reason='can not send using plain mode', code=82)
+[2018-07-07 16:18:24.791094] argument of type 'bool' is not iterable
+[2018-07-07 16:18:29.180996] local variable 'mid' referenced before assignment
+[2018-07-07 16:18:29.206008] name 'welcomemsg' is not defined
+[2018-07-07 16:18:29.209002] name 'welcomemsg' is not defined
+[2018-07-07 16:23:58.367724] name 'welcomemsg' is not defined
+[2018-07-07 16:24:12.833700] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.834431] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.834963] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.835577] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.836140] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.836638] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.837202] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.837764] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.838376] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:24:12.838881] 'NoneType' object has no attribute 'lower'
+[2018-07-07 16:36:28.843512] name 'welcomemsg' is not defined
+[2018-07-07 16:36:28.848287] name 'welcomemsg' is not defined
+[2018-07-07 16:53:54.406668] TalkException(parameterMap=None, code=0, reason='invalid mention.')
+[2018-07-07 16:54:10.566003] local variable 'mid' referenced before assignment
+[2018-07-07 16:54:24.374260] name 'welcomemsg' is not defined
+[2018-07-07 16:54:29.334053] name 'welcomemsg' is not defined
+[2018-07-07 16:54:45.143739] TalkException(parameterMap=None, code=0, reason='invalid mention.')
+[2018-07-07 16:55:04.468613] name 'welcomemsg' is not defined
+[2018-07-07 16:55:15.340019] TalkException(parameterMap=None, code=0, reason='invalid mention.')
+[2018-07-07 17:08:12.590373] name 'welcomemsg' is not defined
+[2018-07-07 17:11:19.268124] name 'welcomemsg' is not defined
+[2018-07-07 17:16:55.514442] name 'welcomemsg' is not defined
+[2018-07-07 17:21:55.800856] name 'welcomemsg' is not defined
+[2018-07-07 17:28:47.006946] name 'welcomemsg' is not defined
+[2018-07-07 17:28:47.011073] name 'welcomemsg' is not defined
+[2018-07-07 17:28:51.325863] name 'welcomemsg' is not defined
+[2018-07-07 17:28:51.329896] name 'welcomemsg' is not defined
+[2018-07-07 17:36:05.720925] local variable 'mid' referenced before assignment
+[2018-07-07 17:36:44.545684] name 'welcomemsg' is not defined
+[2018-07-07 17:42:31.457737] name 'welcomemsg' is not defined
+[2018-07-07 17:47:36.334623] name 'welcomemsg' is not defined
+[2018-07-07 18:06:56.194809] argument of type 'bool' is not iterable
+[2018-07-07 18:08:19.277603] local variable 'mid' referenced before assignment
+[2018-07-07 18:29:48.928900] name 'welcomemsg' is not defined
+[2018-07-07 18:35:21.102499] local variable 'mid' referenced before assignment
+[2018-07-07 18:35:49.390972] name 'welcomemsg' is not defined
+[2018-07-07 18:38:40.780966] argument of type 'bool' is not iterable
+[2018-07-07 18:38:51.633890] local variable 'mid' referenced before assignment
+[2018-07-07 18:39:49.666813] name 'welcomemsg' is not defined
+[2018-07-07 18:51:28.207306] name 'welcomemsg' is not defined
+[2018-07-07 18:57:19.658078] name 'welcomemsg' is not defined
+[2018-07-07 19:16:42.465834] TalkException(code=0, parameterMap=None, reason='can not send to myself')
+[2018-07-07 19:17:45.420125] TalkException(code=0, parameterMap=None, reason='can not send to myself')
+[2018-07-07 19:46:21.524291] name 'welcomemsg' is not defined
+[2018-07-07 23:01:45.159687] list index out of range
+[2018-07-07 23:03:22.593712] TalkException(code=0, parameterMap=None, reason='invalid mid')
+[2018-07-07 23:04:44.884788] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:04:44.885513] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:04:44.886021] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:04:44.886530] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:04:44.887236] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:07:07.220682] list index out of range
+[2018-07-07 23:07:07.274376] list index out of range
+[2018-07-07 23:37:44.437483] local variable 'mid' referenced before assignment
+[2018-07-07 23:45:46.026210] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.509429] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.511113] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.511659] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.512178] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.512833] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.513474] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.548769] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.549388] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.549902] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.550640] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.551251] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.558846] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.587016] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.587879] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.588475] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.589170] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.589854] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.623011] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.623587] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:03.624084] 'NoneType' object has no attribute 'lower'
+[2018-07-07 23:47:36.183303] list index out of range
+[2018-07-07 23:47:36.255550] list index out of range
+[2018-07-08 00:18:56.512928] name 'welcomemsg' is not defined
+[2018-07-08 00:22:00.802757] local variable 'mid' referenced before assignment
+[2018-07-08 00:22:12.584645] argument of type 'bool' is not iterable
+[2018-07-08 00:22:15.009293] argument of type 'bool' is not iterable
+[2018-07-08 00:22:20.284265] argument of type 'bool' is not iterable
+[2018-07-08 00:22:22.988065] argument of type 'bool' is not iterable
+[2018-07-08 00:22:47.682972] argument of type 'bool' is not iterable
+[2018-07-08 00:22:54.746197] argument of type 'bool' is not iterable
+[2018-07-08 00:23:13.608625] local variable 'mid' referenced before assignment
+[2018-07-08 00:27:56.640742] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 00:29:32.861997] list index out of range
+[2018-07-08 00:30:38.501618] Download object failure.
+[2018-07-08 00:37:42.489208] list index out of range
+[2018-07-08 00:39:06.072385] local variable 'mid' referenced before assignment
+[2018-07-08 00:39:38.563341] list index out of range
+[2018-07-08 00:39:53.654342] name 'welcomemsg' is not defined
+[2018-07-08 00:56:57.033123] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.060683] local variable 'mid' referenced before assignment
+[2018-07-08 01:05:49.063757] local variable 'mid' referenced before assignment
+[2018-07-08 01:05:49.140580] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.140916] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.142978] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.175044] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.224798] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.253204] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.281903] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.313166] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.381710] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.382063] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.382320] name 'welcomemsg' is not defined
+[2018-07-08 01:05:49.382589] name 'welcomemsg' is not defined
+[2018-07-08 01:07:06.492401] local variable 'mid' referenced before assignment
+[2018-07-08 01:07:06.494880] local variable 'mid' referenced before assignment
+[2018-07-08 01:12:32.748707] name 'welcomemsg' is not defined
+[2018-07-08 01:14:49.453117] name 'welcomemsg' is not defined
+[2018-07-08 01:37:41.032992] local variable 'mid' referenced before assignment
+[2018-07-08 01:37:45.457321] name 'welcomemsg' is not defined
+[2018-07-08 01:38:34.063532] local variable 'mid' referenced before assignment
+[2018-07-08 01:39:08.639596] name 'welcomemsg' is not defined
+[2018-07-08 01:39:30.584432] local variable 'mid' referenced before assignment
+[2018-07-08 01:40:13.423567] name 'welcomemsg' is not defined
+[2018-07-08 01:41:59.450207] name 'welcomemsg' is not defined
+[2018-07-08 01:42:29.993901] name 'welcomemsg' is not defined
+[2018-07-08 01:47:46.276630] name 'welcomemsg' is not defined
+[2018-07-08 01:48:10.341177] name 'welcomemsg' is not defined
+[2018-07-08 01:48:45.705807] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:48:51.484671] list index out of range
+[2018-07-08 01:51:08.249381] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.296665] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.320960] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.343860] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.366332] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.390103] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.440974] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.470268] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.497084] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.521524] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.547461] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:08.777690] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:21.508900] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:21.571510] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:21.599596] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:21.624461] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:21.682519] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:21.708262] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:51:22.095453] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:52:16.305327] name 'welcomemsg' is not defined
+[2018-07-08 01:53:25.275917] 'NoneType' object has no attribute 'lower'
+[2018-07-08 01:57:43.906315] name 'welcomemsg' is not defined
+[2018-07-08 01:58:40.623253] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.648211] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.708535] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.735142] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.759111] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.799988] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.855183] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.879487] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.921432] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.946440] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:40.969207] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:41.032558] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:42.489069] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:42.552040] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:42.574686] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:42.597770] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:42.651672] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:42.683921] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:58:43.020493] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:16.437883] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:16.496825] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:16.520882] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:16.544634] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:16.599980] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:16.631390] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:16.768959] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:19.934663] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:19.995469] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.020331] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.043544] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.067379] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.122403] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.146199] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.180219] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.204454] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.226819] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:20.318792] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:23.257832] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:23.310872] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:23.334610] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:23.359729] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:23.411419] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:23.434911] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:23.890560] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.471965] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.497133] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.556656] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.579458] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.602264] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.626841] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.649356] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.719170] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.747431] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.770129] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.793169] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.820980] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:42.968366] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:57.193233] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:57.256716] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:57.282584] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:57.308129] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:57.368815] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:57.392112] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:57.500562] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:59.588074] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:59.644906] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:59.669748] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:59.695408] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:59.760048] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:59.787257] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 01:59:59.964182] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:05.495411] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:05.561104] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:05.568007] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:05.585904] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:05.613635] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:05.665783] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:05.688536] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:05.789013] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:17.932789] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:17.961239] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:18.018827] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:18.045326] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:18.074659] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:18.098399] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:18.207922] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:28.894874] local variable 'mid' referenced before assignment
+[2018-07-08 02:00:38.369305] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.691087] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.714666] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.786391] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.811970] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.835357] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.857205] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.880330] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.947657] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.973331] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:42.995960] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:43.020906] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:43.043505] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:43.636095] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:43.658867] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:43.711589] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:43.734418] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:43.757457] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:43.780840] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:44.209856] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:44.281736] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:44.305255] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:44.329685] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:44.390327] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:44.413992] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:00:49.821954] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:01:27.216939] name 'welcomemsg' is not defined
+[2018-07-08 02:02:01.227426] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:02:42.824585] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:03:00.370645] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:04:03.742579] name 'welcomemsg' is not defined
+[2018-07-08 02:07:26.039424] name 'welcomemsg' is not defined
+[2018-07-08 02:08:39.897816] name 'welcomemsg' is not defined
+[2018-07-08 02:08:47.176356] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:08:47.328991] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:08:47.352808] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:08:47.377637] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:08:47.402096] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:08:47.428787] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:08:47.451366] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:10:06.791862] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:12:14.538837] name 'welcomemsg' is not defined
+[2018-07-08 02:13:35.300638] name 'welcomemsg' is not defined
+[2018-07-08 02:18:35.609770] local variable 'mid' referenced before assignment
+[2018-07-08 02:19:10.303155] name 'welcomemsg' is not defined
+[2018-07-08 02:19:54.555095] name 'welcomemsg' is not defined
+[2018-07-08 02:20:10.046082] name 'welcomemsg' is not defined
+[2018-07-08 02:20:53.539154] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:20:53.568943] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:20:53.594109] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:20:53.620065] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:20:53.650447] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:20:53.675389] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:20:53.697832] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:21:38.872257] name 'welcomemsg' is not defined
+[2018-07-08 02:22:54.269611] local variable 'mid' referenced before assignment
+[2018-07-08 02:23:49.200556] argument of type 'bool' is not iterable
+[2018-07-08 02:26:39.550007] local variable 'mid' referenced before assignment
+[2018-07-08 02:26:56.909416] local variable 'mid' referenced before assignment
+[2018-07-08 02:29:06.515498] name 'welcomemsg' is not defined
+[2018-07-08 02:29:56.442924] name 'welcomemsg' is not defined
+[2018-07-08 02:30:16.985166] local variable 'mid' referenced before assignment
+[2018-07-08 02:30:38.680717] name 'welcomemsg' is not defined
+[2018-07-08 02:31:01.409194] name 'welcomemsg' is not defined
+[2018-07-08 02:31:27.491261] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:32:43.612027] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:33:51.597912] local variable 'mid' referenced before assignment
+[2018-07-08 02:34:18.846343] name 'welcomemsg' is not defined
+[2018-07-08 02:36:24.523774] name 'welcomemsg' is not defined
+[2018-07-08 02:36:35.844943] local variable 'mid' referenced before assignment
+[2018-07-08 02:38:19.625030] name 'welcomemsg' is not defined
+[2018-07-08 02:38:29.596029] name 'welcomemsg' is not defined
+[2018-07-08 02:39:49.649924] argument of type 'bool' is not iterable
+[2018-07-08 02:39:56.479378] local variable 'mid' referenced before assignment
+[2018-07-08 02:40:06.852634] name 'welcomemsg' is not defined
+[2018-07-08 02:40:58.602231] name 'welcomemsg' is not defined
+[2018-07-08 02:46:22.790569] local variable 'mid' referenced before assignment
+[2018-07-08 02:46:54.223395] name 'welcomemsg' is not defined
+[2018-07-08 02:49:46.602681] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:52:35.080843] name 'welcomemsg' is not defined
+[2018-07-08 02:52:49.085319] TalkException(code=0, parameterMap=None, reason='invalid mention.')
+[2018-07-08 02:55:04.690164] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:04.940938] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:16.808387] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:16.832983] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:16.863159] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:16.887142] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:16.911081] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:41.159558] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:41.188031] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:55:51.386963] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:01.592485] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:05.430448] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:11.663868] list index out of range
+[2018-07-08 02:56:11.688464] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:12.053052] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:14.008198] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:22.492793] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:22.557351] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:22.586157] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:22.666041] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:22.689380] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:28.970901] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:29.031225] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:29.056074] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:29.087443] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:29.155875] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:56:32.149648] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:06.229263] list index out of range
+[2018-07-08 02:57:07.557309] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:07.581462] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:07.607610] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:07.631200] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:07.658232] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:07.911581] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:13.655729] name 'welcomemsg' is not defined
+[2018-07-08 02:57:36.117297] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:36.176894] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:36.200750] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:36.223675] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:36.254986] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:36.278714] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:36.302420] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:57:56.179885] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:58:07.634908] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:58:07.713619] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:58:07.741422] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:58:07.772185] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:58:07.797369] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:58:07.840064] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:58:07.896353] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 02:58:07.962492] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:00:20.197108] name 'welcomemsg' is not defined
+[2018-07-08 03:00:45.884940] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:00:45.941856] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:00:45.970043] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:00:46.031195] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:00:46.057438] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:00:46.083867] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:01:25.860615] name 'welcomemsg' is not defined
+[2018-07-08 03:01:56.205395] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:02:55.843028] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:02:55.867372] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:02:55.934581] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:02:55.958551] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:02:56.094285] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:02:56.119848] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:03:11.381476] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:03:11.441119] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:03:11.465180] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:03:11.487615] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:03:11.547881] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:03:11.571022] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:03:18.163275] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.189616] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.211532] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.233083] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.346678] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.372969] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.488623] name 'welcomemsg' is not defined
+[2018-07-08 03:03:18.583217] name 'welcomemsg' is not defined
+[2018-07-08 03:03:18.638197] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.657974] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.677578] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.698634] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.724627] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:03:18.743695] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:05:39.588091] 'NoneType' object has no attribute 'lower'
+[2018-07-08 03:07:05.178358] local variable 'mid' referenced before assignment
+[2018-07-08 03:07:15.144999] name 'welcomemsg' is not defined
+[2018-07-08 03:09:10.828019] 'NoneType' object has no attribute 'lower'
+[2018-07-08 03:09:18.949971] 'NoneType' object has no attribute 'lower'
+[2018-07-08 03:10:13.822596] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:12:13.509309] 'NoneType' object has no attribute 'lower'
+[2018-07-08 03:12:26.842427] 'NoneType' object has no attribute 'lower'
+[2018-07-08 03:15:33.423495] local variable 'mid' referenced before assignment
+[2018-07-08 03:15:50.598833] name 'welcomemsg' is not defined
+[2018-07-08 03:16:12.770826] local variable 'mid' referenced before assignment
+[2018-07-08 03:19:13.065391] name 'welcomemsg' is not defined
+[2018-07-08 03:20:13.214037] argument of type 'bool' is not iterable
+[2018-07-08 03:20:37.797887] local variable 'mid' referenced before assignment
+[2018-07-08 03:20:38.840564] name 'welcomemsg' is not defined
+[2018-07-08 03:20:43.385715] local variable 'mid' referenced before assignment
+[2018-07-08 03:20:43.424245] name 'welcomemsg' is not defined
+[2018-07-08 03:23:13.932014] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:23:17.459667] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:24:10.590555] local variable 'mid' referenced before assignment
+[2018-07-08 03:24:10.623196] name 'welcomemsg' is not defined
+[2018-07-08 03:25:33.556678] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:27:52.772470] name 'welcomemsg' is not defined
+[2018-07-08 03:28:56.801185] name 'welcomemsg' is not defined
+[2018-07-08 03:32:15.759532] name 'welcomemsg' is not defined
+[2018-07-08 03:32:36.181304] name 'welcomemsg' is not defined
+[2018-07-08 03:34:01.248533] name 'welcomemsg' is not defined
+[2018-07-08 03:36:59.306775] local variable 'mid' referenced before assignment
+[2018-07-08 03:36:59.340752] argument of type 'bool' is not iterable
+[2018-07-08 03:38:37.706446] local variable 'mid' referenced before assignment
+[2018-07-08 03:38:51.702543] name 'welcomemsg' is not defined
+[2018-07-08 03:39:08.444649] name 'welcomemsg' is not defined
+[2018-07-08 03:41:05.093178] name 'welcomemsg' is not defined
+[2018-07-08 03:43:16.450924] name 'welcomemsg' is not defined
+[2018-07-08 03:44:52.242347] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 03:45:02.735927] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 03:46:08.679412] local variable 'mid' referenced before assignment
+[2018-07-08 03:46:08.713761] argument of type 'bool' is not iterable
+[2018-07-08 03:47:05.556877] name 'welcomemsg' is not defined
+[2018-07-08 03:57:28.535860] name 'welcomemsg' is not defined
+[2018-07-08 04:01:43.846306] local variable 'mid' referenced before assignment
+[2018-07-08 04:01:43.885834] argument of type 'bool' is not iterable
+[2018-07-08 04:05:55.593801] local variable 'mid' referenced before assignment
+[2018-07-08 04:07:08.698846] name 'welcomemsg' is not defined
+[2018-07-08 04:07:26.153174] name 'welcomemsg' is not defined
+[2018-07-08 04:08:17.337227] name 'welcomemsg' is not defined
+[2018-07-08 04:17:27.811747] local variable 'mid' referenced before assignment
+[2018-07-08 04:20:46.136647] TalkException(code=10, parameterMap={}, reason='not a member')
+[2018-07-08 04:26:29.475737] name 'welcomemsg' is not defined
+[2018-07-08 04:28:12.530719] name 'welcomemsg' is not defined
+[2018-07-08 04:29:53.619387] local variable 'mid' referenced before assignment
+[2018-07-08 04:30:01.465813] name 'welcomemsg' is not defined
+[2018-07-08 04:32:24.381778] name 'welcomemsg' is not defined
+[2018-07-08 04:32:36.555660] name 'welcomemsg' is not defined
+[2018-07-08 04:35:21.550398] local variable 'mid' referenced before assignment
+[2018-07-08 04:42:38.357932] name 'welcomemsg' is not defined
+[2018-07-08 04:44:55.690245] name 'welcomemsg' is not defined
+[2018-07-08 04:47:27.879529] local variable 'mid' referenced before assignment
+[2018-07-08 04:47:27.918212] name 'welcomemsg' is not defined
+[2018-07-08 04:47:39.850917] 'LINE' object has no attribute 'sendMusic'
+[2018-07-08 04:47:45.114264] name 'welcomemsg' is not defined
+[2018-07-08 04:49:11.473692] name 'welcomemsg' is not defined
+[2018-07-08 04:49:11.719534] name 'welcomemsg' is not defined
+[2018-07-08 04:49:13.855236] name 'welcomemsg' is not defined
+[2018-07-08 04:49:14.402288] name 'welcomemsg' is not defined
+[2018-07-08 04:49:16.561100] name 'welcomemsg' is not defined
+[2018-07-08 04:49:18.345749] name 'welcomemsg' is not defined
+[2018-07-08 04:49:20.025080] name 'welcomemsg' is not defined
+[2018-07-08 04:49:22.918922] name 'welcomemsg' is not defined
+[2018-07-08 04:49:24.131868] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:24.198448] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:24.222329] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:24.249644] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:24.314255] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:24.338557] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:24.646401] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:24.710344] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:25.930482] name 'welcomemsg' is not defined
+[2018-07-08 04:49:28.942570] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:28.967326] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:28.994210] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.015827] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.117964] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.141389] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.201725] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.225632] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.247908] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.282061] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.307742] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.332528] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.392283] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:29.420916] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:31.892824] name 'welcomemsg' is not defined
+[2018-07-08 04:49:32.524247] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.554884] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.581471] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.609342] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.674744] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.697292] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.720856] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.745329] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.774255] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.855179] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:32.927629] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:33.222172] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:33.317751] name 'welcomemsg' is not defined
+[2018-07-08 04:49:33.422284] name 'welcomemsg' is not defined
+[2018-07-08 04:49:39.327514] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:39.394807] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:39.479354] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:39.508969] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:39.640478] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:39.664905] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:49.968495] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:49.993733] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:50.050061] name 'welcomemsg' is not defined
+[2018-07-08 04:49:50.376881] name 'welcomemsg' is not defined
+[2018-07-08 04:49:50.437241] name 'welcomemsg' is not defined
+[2018-07-08 04:49:50.989148] name 'welcomemsg' is not defined
+[2018-07-08 04:49:51.475703] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:51.502000] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:51.524839] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:51.547537] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:51.570984] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:51.595641] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:51.617942] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:51.640740] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:49:51.641348] name 'welcomemsg' is not defined
+[2018-07-08 04:49:51.829243] name 'welcomemsg' is not defined
+[2018-07-08 04:50:02.738016] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:02.762304] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:02.789360] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:02.890929] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:02.915042] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:03.070847] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:03.071260] name 'welcomemsg' is not defined
+[2018-07-08 04:50:03.156483] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:03.877852] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:03.878292] name 'welcomemsg' is not defined
+[2018-07-08 04:50:04.481013] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:04.503883] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:04.566598] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:04.595361] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:04.621494] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:04.644108] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:04.839068] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:04.901256] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:06.757241] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:06.782863] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:06.805904] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:06.833683] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:06.858860] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:07.098097] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:07.120458] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:08.709342] name 'welcomemsg' is not defined
+[2018-07-08 04:50:10.095372] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:10.124624] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:10.206383] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:10.288972] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:10.371992] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:10.399045] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:10.597823] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:10.624191] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:11.578370] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:11.610615] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:11.747087] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:11.808020] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:13.101756] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:13.125942] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:13.205407] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:13.229783] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:13.257270] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:13.284115] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:23.522719] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:24.986496] 'NoneType' object has no attribute 'lower'
+[2018-07-08 04:50:33.598075] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:33.598537] name 'welcomemsg' is not defined
+[2018-07-08 04:50:34.321053] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:34.345833] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:34.375156] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:34.409817] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:34.433853] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:34.522997] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:34.549959] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:34.632984] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:35.078055] name 'welcomemsg' is not defined
+[2018-07-08 04:50:35.432681] name 'welcomemsg' is not defined
+[2018-07-08 04:50:52.230763] 'LINE' object has no attribute 'sendMusic'
+[2018-07-08 04:50:57.395134] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:57.422138] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:57.446079] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:57.469962] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:57.495436] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:57.519547] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:57.544233] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:50:57.623141] local variable 'mid' referenced before assignment
+[2018-07-08 04:50:57.813088] list index out of range
+[2018-07-08 04:50:57.836085] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:07.984942] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:08.125154] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:08.674550] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:09.023018] name 'welcomemsg' is not defined
+[2018-07-08 04:51:09.778842] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:09.803858] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:09.837862] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:09.863620] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:09.886495] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:26.560841] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:51:33.916082] name 'welcomemsg' is not defined
+[2018-07-08 04:51:42.897752] name 'welcomemsg' is not defined
+[2018-07-08 04:52:04.905561] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:52:05.046664] name 'welcomemsg' is not defined
+[2018-07-08 04:52:13.029992] name 'welcomemsg' is not defined
+[2018-07-08 04:52:16.499812] name 'welcomemsg' is not defined
+[2018-07-08 04:52:17.592362] name 'welcomemsg' is not defined
+[2018-07-08 04:52:32.059197] 'NoneType' object has no attribute 'lower'
+[2018-07-08 04:52:50.666192] name 'welcomemsg' is not defined
+[2018-07-08 04:53:01.672950] name 'welcomemsg' is not defined
+[2018-07-08 04:53:14.396117] name 'welcomemsg' is not defined
+[2018-07-08 04:53:33.735086] 'LINE' object has no attribute 'sendMusic'
+[2018-07-08 04:53:36.043486] name 'welcomemsg' is not defined
+[2018-07-08 04:54:09.241719] name 'welcomemsg' is not defined
+[2018-07-08 04:54:09.724197] name 'welcomemsg' is not defined
+[2018-07-08 04:54:17.522069] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 04:54:19.896325] local variable 'mid' referenced before assignment
+[2018-07-08 04:54:21.842565] name 'welcomemsg' is not defined
+[2018-07-08 04:54:24.533164] name 'welcomemsg' is not defined
+[2018-07-08 04:55:02.589303] name 'welcomemsg' is not defined
+[2018-07-08 04:55:02.589900] name 'welcomemsg' is not defined
+[2018-07-08 04:55:03.520252] name 'welcomemsg' is not defined
+[2018-07-08 04:55:31.970643] local variable 'mid' referenced before assignment
+[2018-07-08 04:55:32.260355] name 'welcomemsg' is not defined
+[2018-07-08 04:55:32.990078] name 'welcomemsg' is not defined
+[2018-07-08 04:55:45.988064] name 'welcomemsg' is not defined
+[2018-07-08 04:55:48.271934] list index out of range
+[2018-07-08 04:55:48.896160] name 'welcomemsg' is not defined
+[2018-07-08 04:55:49.502011] name 'welcomemsg' is not defined
+[2018-07-08 04:59:57.265778] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:04:10.264998] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:04:14.193003] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:04:52.618042] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:04:52.790449] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:06:04.391950] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:06:09.433010] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:08:02.002023] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:08:06.276082] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:19:58.240346] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:20:03.591150] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:22:14.238869] name 'welcomemsg' is not defined
+[2018-07-08 05:22:14.272973] name 'welcomemsg' is not defined
+[2018-07-08 05:22:14.295372] name 'welcomemsg' is not defined
+[2018-07-08 05:22:14.296047] name 'welcomemsg' is not defined
+[2018-07-08 05:22:14.315662] name 'welcomemsg' is not defined
+[2018-07-08 05:22:14.337072] name 'welcomemsg' is not defined
+[2018-07-08 05:23:22.003096] name 'welcomemsg' is not defined
+[2018-07-08 05:23:22.058614] name 'welcomemsg' is not defined
+[2018-07-08 05:23:22.106255] name 'welcomemsg' is not defined
+[2018-07-08 05:23:22.237250] name 'welcomemsg' is not defined
+[2018-07-08 05:23:22.289286] name 'welcomemsg' is not defined
+[2018-07-08 05:23:22.336587] name 'welcomemsg' is not defined
+[2018-07-08 05:23:22.385615] name 'welcomemsg' is not defined
+[2018-07-08 05:25:16.921050] name 'welcomemsg' is not defined
+[2018-07-08 05:25:16.971207] name 'welcomemsg' is not defined
+[2018-07-08 05:25:17.024049] name 'welcomemsg' is not defined
+[2018-07-08 05:25:17.081646] name 'welcomemsg' is not defined
+[2018-07-08 05:25:17.131001] name 'welcomemsg' is not defined
+[2018-07-08 05:25:39.423839] name 'welcomemsg' is not defined
+[2018-07-08 05:26:06.982718] name 'welcomemsg' is not defined
+[2018-07-08 05:26:25.019670] 'NoneType' object has no attribute 'lower'
+[2018-07-08 05:30:00.003827] 'LINE' object has no attribute 'sendMusic'
+[2018-07-08 05:49:50.325898] name 'welcomemsg' is not defined
+[2018-07-08 05:50:22.755900] name 'welcomemsg' is not defined
+[2018-07-08 05:53:36.497666] Download file failure.
+[2018-07-08 05:53:36.586207] 'NoneType' object has no attribute 'lower'
+[2018-07-08 06:31:02.452473] 'NoneType' object has no attribute 'lower'
+[2018-07-08 06:34:26.146678] 'NoneType' object has no attribute 'lower'
+[2018-07-08 06:39:27.288106] Download object failure.
+[2018-07-08 06:41:57.179833] Download object failure.
+[2018-07-08 06:53:33.642654] [Errno -3] Temporary failure in name resolution
+[2018-07-08 06:54:13.687240] [Errno -3] Temporary failure in name resolution
+[2018-07-08 06:54:27.541933] [Errno 2] No such file or directory: 'tmp/pict.bin'
+[2018-07-08 07:01:00.427864] TalkException(reason='can not send using plain mode', parameterMap=None, code=82)
+[2018-07-08 07:01:00.453880] TalkException(reason='can not send using plain mode', parameterMap=None, code=82)
+[2018-07-08 07:01:08.913203] local variable 'mid' referenced before assignment
+[2018-07-08 07:04:07.424696] local variable 'mid' referenced before assignment
+[2018-07-08 07:25:07.244843] local variable 'mid' referenced before assignment
+[2018-07-08 07:44:53.089932] TalkException(reason='can not send using plain mode', parameterMap=None, code=82)
+[2018-07-08 07:44:53.111060] TalkException(reason='can not send using plain mode', parameterMap=None, code=82)
+[2018-07-08 07:50:48.416821] TalkException(reason='can not send using plain mode', parameterMap=None, code=82)
+[2018-07-08 07:50:48.439895] TalkException(reason='can not send using plain mode', parameterMap=None, code=82)
+[2018-07-08 08:11:10.256811] local variable 'mid' referenced before assignment
+[2018-07-08 08:11:18.656406] name 'welcomemsg' is not defined
+[2018-07-08 08:11:19.457442] name 'welcomemsg' is not defined
+[2018-07-08 08:11:25.441992] name 'welcomemsg' is not defined
+[2018-07-08 08:11:42.110650] name 'welcomemsg' is not defined
+[2018-07-08 08:12:33.493144] name 'welcomemsg' is not defined
+[2018-07-08 08:12:34.087525] name 'welcomemsg' is not defined
+[2018-07-08 08:12:34.142541] name 'welcomemsg' is not defined
+[2018-07-08 08:12:34.221486] name 'welcomemsg' is not defined
+[2018-07-08 08:12:34.305001] name 'welcomemsg' is not defined
+[2018-07-08 08:12:34.383501] name 'welcomemsg' is not defined
+[2018-07-08 08:12:34.857509] name 'welcomemsg' is not defined
+[2018-07-08 08:12:34.893123] name 'welcomemsg' is not defined
+[2018-07-08 08:12:43.518865] name 'welcomemsg' is not defined
+[2018-07-08 08:14:00.834039] name 'welcomemsg' is not defined
+[2018-07-08 08:14:04.839233] name 'welcomemsg' is not defined
+[2018-07-08 08:14:38.994428] name 'welcomemsg' is not defined
+[2018-07-08 08:14:43.518366] name 'welcomemsg' is not defined
+[2018-07-08 08:15:16.592504] name 'welcomemsg' is not defined
+[2018-07-08 08:15:44.092764] name 'welcomemsg' is not defined
+[2018-07-08 08:15:59.285905] name 'welcomemsg' is not defined
+[2018-07-08 08:16:12.542338] name 'welcomemsg' is not defined
+[2018-07-08 08:17:04.462199] name 'welcomemsg' is not defined
+[2018-07-08 08:17:35.347761] name 'welcomemsg' is not defined
+[2018-07-08 08:18:10.675385] name 'welcomemsg' is not defined
+[2018-07-08 08:19:25.835703] name 'welcomemsg' is not defined
+[2018-07-08 08:19:28.543273] name 'welcomemsg' is not defined
+[2018-07-08 08:20:52.618349] name 'welcomemsg' is not defined
+[2018-07-08 08:25:35.295994] name 'welcomemsg' is not defined
+[2018-07-08 08:25:53.695851] name 'welcomemsg' is not defined
+[2018-07-08 08:26:18.173954] name 'welcomemsg' is not defined
+[2018-07-08 08:27:53.874634] name 'welcomemsg' is not defined
+[2018-07-08 08:28:37.431653] name 'welcomemsg' is not defined
+[2018-07-08 08:28:49.067950] name 'welcomemsg' is not defined
+[2018-07-08 08:29:55.374085] name 'welcomemsg' is not defined
+[2018-07-08 08:31:30.032293] name 'welcomemsg' is not defined
+[2018-07-08 08:31:32.494207] name 'welcomemsg' is not defined
+[2018-07-08 08:31:58.000798] name 'welcomemsg' is not defined
+[2018-07-08 08:33:41.677537] name 'welcomemsg' is not defined
+[2018-07-08 08:34:48.147742] local variable 'mid' referenced before assignment
+[2018-07-08 08:37:07.186707] name 'welcomemsg' is not defined
+[2018-07-08 08:37:15.817052] name 'welcomemsg' is not defined
+[2018-07-08 08:41:12.425582] name 'welcomemsg' is not defined
+[2018-07-08 08:41:57.599858] name 'welcomemsg' is not defined
+[2018-07-08 08:42:15.627135] name 'welcomemsg' is not defined
+[2018-07-08 08:46:36.474387] name 'welcomemsg' is not defined
+[2018-07-08 08:49:03.789094] name 'welcomemsg' is not defined
+[2018-07-08 08:52:47.010360] name 'welcomemsg' is not defined
+[2018-07-08 08:54:42.582812] name 'welcomemsg' is not defined
+[2018-07-08 08:56:08.738941] name 'welcomemsg' is not defined
+[2018-07-08 08:56:09.900018] name 'welcomemsg' is not defined
+[2018-07-08 08:57:18.215114] local variable 'mid' referenced before assignment
+[2018-07-08 08:57:27.439907] name 'welcomemsg' is not defined
+[2018-07-08 08:57:54.293023] name 'welcomemsg' is not defined
+[2018-07-08 09:02:23.332890] name 'welcomemsg' is not defined
+[2018-07-08 09:03:05.781551] name 'welcomemsg' is not defined
+[2018-07-08 09:04:37.270822] name 'welcomemsg' is not defined
+[2018-07-08 09:05:56.187035] name 'welcomemsg' is not defined
+[2018-07-08 09:09:04.907505] local variable 'mid' referenced before assignment
+[2018-07-08 09:09:04.937095] argument of type 'bool' is not iterable
+[2018-07-08 09:09:41.611525] local variable 'mid' referenced before assignment
+[2018-07-08 09:09:41.634717] argument of type 'bool' is not iterable
+[2018-07-08 09:10:10.324738] name 'welcomemsg' is not defined
+[2018-07-08 09:10:18.767736] name 'welcomemsg' is not defined
+[2018-07-08 09:11:20.868214] local variable 'mid' referenced before assignment
+[2018-07-08 09:12:05.241597] name 'welcomemsg' is not defined
+[2018-07-08 09:13:38.220672] name 'welcomemsg' is not defined
+[2018-07-08 09:15:56.178950] name 'welcomemsg' is not defined
+[2018-07-08 09:18:45.113598] name 'welcomemsg' is not defined
+[2018-07-08 09:26:38.660295] name 'welcomemsg' is not defined
+[2018-07-08 09:37:16.056413] name 'welcomemsg' is not defined
+[2018-07-08 09:37:57.954094] name 'welcomemsg' is not defined
+[2018-07-08 09:46:30.907639] name 'welcomemsg' is not defined
+[2018-07-08 09:53:12.973168] name 'welcomemsg' is not defined
+[2018-07-08 10:02:36.860936] name 'welcomemsg' is not defined
+[2018-07-08 10:04:16.604419] name 'welcomemsg' is not defined
+[2018-07-08 10:06:32.980910] name 'welcomemsg' is not defined
+[2018-07-08 10:17:35.755282] name 'welcomemsg' is not defined
+[2018-07-08 10:20:12.488111] name 'welcomemsg' is not defined
+[2018-07-08 10:22:17.269670] 'NoneType' object has no attribute 'lower'
+[2018-07-08 10:26:16.921987] name 'welcomemsg' is not defined
+[2018-07-08 10:27:24.387486] TalkException(code=82, parameterMap=None, reason='can not send using plain mode')
+[2018-07-08 10:27:24.409473] TalkException(code=82, parameterMap=None, reason='can not send using plain mode')
+[2018-07-08 10:28:54.161437] name 'welcomemsg' is not defined
+[2018-07-08 10:34:50.635744] local variable 'mid' referenced before assignment
+[2018-07-08 10:34:50.656269] argument of type 'bool' is not iterable
+[2018-07-08 10:36:06.816891] name 'welcomemsg' is not defined
+[2018-07-08 10:36:06.871624] name 'welcomemsg' is not defined
+[2018-07-08 10:36:07.397920] name 'welcomemsg' is not defined
+[2018-07-08 10:36:07.447464] name 'welcomemsg' is not defined
+[2018-07-08 10:36:34.386085] argument of type 'bool' is not iterable
+[2018-07-08 10:42:19.212310] name 'welcomemsg' is not defined
+[2018-07-08 10:44:31.034653] 'LINE' object has no attribute 'sendMusic'
+[2018-07-08 10:53:41.323583] name 'welcomemsg' is not defined
+[2018-07-08 10:55:23.330018] name 'welcomemsg' is not defined
+[2018-07-08 10:59:14.737378] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 10:59:14.810239] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 10:59:15.151480] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 10:59:15.564874] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 10:59:15.903917] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 10:59:16.260483] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 10:59:23.158569] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 10:59:23.355875] TalkException(code=32, parameterMap=None, reason='The sticker is not owned by the user')
+[2018-07-08 11:10:04.723146] name 'welcomemsg' is not defined
+[2018-07-08 11:12:07.164471] TalkException(code=82, parameterMap=None, reason='can not send using plain mode')
+[2018-07-08 11:12:07.198840] TalkException(code=82, parameterMap=None, reason='can not send using plain mode')
+[2018-07-08 11:19:04.732725] name 'welcomemsg' is not defined
+[2018-07-08 11:20:22.415575] name 'welcomemsg' is not defined
+[2018-07-08 11:24:47.477236] name 'welcomemsg' is not defined
+[2018-07-08 11:24:56.498004] name 'welcomemsg' is not defined
+[2018-07-08 11:26:46.778136] name 'welcomemsg' is not defined
+[2018-07-08 11:35:13.374881] local variable 'mid' referenced before assignment
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'MENTION'
+[2018-07-08 11:55:55.252534] name 'welcomemsg' is not defined
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[2018-07-08 11:59:32.244016] name 'welcomemsg' is not defined
+[2018-07-08 12:14:15.974566] argument of type 'bool' is not iterable
+[2018-07-08 12:14:28.690219] name 'welcomemsg' is not defined
+[2018-07-08 12:14:28.734546] name 'welcomemsg' is not defined
+[2018-07-08 12:24:23.801364] TalkException(code=0, parameterMap=None, reason='invalid groupId')
